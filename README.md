@@ -11,11 +11,12 @@
 Английские версии добавляются постепенно.
 ## Проверки
 В репозитории находятся небольшие Python-скрипты для проверки и статистики базы:
+
 scripts/
-poles_counter.py
-repeat_checker.py
-spelling_checker.py
-mark_counter
+- poles_counter.py
+- repeat_checker.py
+- spelling_checker.py
+- mark_counter.py
 
 Они используются для подсчёта записей, поиска повторов, проверки формата некоторых надписей и подсчёта оценок при наличии.
 
@@ -46,10 +47,10 @@ English versions are being added gradually.
 The repository contains small Python scripts for checking and maintaining statistics for the database:
 
 scripts/
-poles_counter.py
-repeat_checker.py
-spelling_checker.py
-mark_counter
+- poles_counter.py
+- repeat_checker.py
+- spelling_checker.py
+- mark_counter.py
 
 They are used to count entries, find duplicates, check the format of some labels, and count ratings when available.
 
@@ -80,10 +81,10 @@ Please keep in mind that this database probably does not cover all existing sign
 リポジトリには、データベースの確認や集計を行うための小さな Python スクリプトがあります。
 
 scripts/
-poles_counter.py
-repeat_checker.py
-spelling_checker.py
-mark_counter
+- poles_counter.py
+- repeat_checker.py
+- spelling_checker.py
+- mark_counter.py
 
 これらは、登録数の集計、重複の確認、一部の標識の表記形式の確認、評価がある場合の評価数の集計などに使用しています。
 
