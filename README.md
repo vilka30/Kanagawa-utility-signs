@@ -2,7 +2,7 @@
 
 База табличек по надписям на опорах линий связи в префектуре Канагава, Япония.
 
-Проект посвящён сбору и описанию табличек с особым вниманием к описанию их ареала.
+Проект посвящён сбору надписей на табличках и описанию их ареала.
 
 ## Языки
 
@@ -26,15 +26,15 @@ scripts/
 
 ## Источники
 
-- geoshape.ex.nii.ac.jp
-- google.com/maps
+- https://geoshape.ex.nii.ac.jp
+- https://google.com/maps
 
 
 # Kanagawa Utility Pole Signs
 
 A database of signs found on utility poles carrying telecommunications lines in Kanagawa Prefecture, Japan.
 
-The project focuses on collecting and documenting signs with particular attention to their use for location identification.
+The project focuses on collecting inscriptions on signs and documenting their distribution area.
 
 ## Languages
 
@@ -60,15 +60,15 @@ Please keep in mind that this database probably does not cover all existing sign
 
 ## Sources
 
-- geoshape.ex.nii.ac.jp
-- Google Maps
+- https://geoshape.ex.nii.ac.jp
+- https://google.com/maps
 
 
 # 神奈川県の電柱標識
 
 日本・神奈川県の通信線の電柱に取り付けられている標識をまとめたデータベースです。
 
-このプロジェクトでは、市区町村、地区、または地区内の特定の場所を特定する手がかりとなる標識を収集・記録しています。特に、位置特定への活用に重点を置いています。
+このプロジェクトでは、標識に記された文字や名称を収集・記録し、その分布域を明らかにすることを目的としています。
 
 ## 言語
 
@@ -96,5 +96,5 @@ scripts/
 
 ## 情報源
 
-- geoshape.ex.nii.ac.jp
-- Google Maps
+- https://geoshape.ex.nii.ac.jp
+- https://google.com/maps
