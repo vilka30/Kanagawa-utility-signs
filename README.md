@@ -6,7 +6,7 @@
 
 ## Языки
 
-Исходные гайды написаны на русском языке.
+Исходные версии файлов написаны на русском языке.
 
 Английские версии добавляются постепенно.
 ## Проверки
@@ -40,7 +40,7 @@ The project focuses on collecting inscriptions on signs and documenting their di
 
 ## Languages
 
-The original guides are written in Russian.
+The original versions of the files are written in Russian.
 
 English versions are being added gradually.
 
@@ -76,7 +76,7 @@ Please keep in mind that this database probably does not cover all existing sign
 
 ## 言語
 
-元のガイドはロシア語で作成されています。
+ファイルの原版はロシア語で作成されています。
 
 英語版は順次追加しています。
 
